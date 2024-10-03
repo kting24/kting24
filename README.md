@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to Karen's Learning Corner 📖
+# Welcome to My Learning Corner 📖
 
 👋  Hi, I’m Karen! I’m a recent graduate from UC Berkeley with a **B.A. in Data Science and Cognitive Science** and a **minor in Computer Science**. 
 
