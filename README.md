@@ -26,6 +26,6 @@ I'm currently building more with **Tableau**! I love how it combines technical s
 - **Email**: Feel free to message me directly at [kting24@berkeley.edu](mailto:kting24@berkeley.edu).
 - **Website**: Check out my most recent projects and experiences [here](https://kting24.github.io/).
 
-📌 **Note:** I’m seeking real-world experience in data, product development, and logistics/management. Whether through consulting projects or non-profit work, please let me know if I can assist.
+📌 **Note:** I’m actively seeking real-world experience in data, product development, and logistics/management. Whether through consulting projects or non-profit work, please let me know if I can assist.
 
 Thank you for visiting!
