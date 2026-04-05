@@ -13,19 +13,19 @@ Here are some ideas to get you started:
 
 # Welcome to My Learning Corner
 
-👋  Hi, I’m Karen! A recent graduate from UC Berkeley with a **B.A. in Data Science and Cognitive Science** and a **minor in Computer Science**. 
+👋  Hi, I’m Karen! A UC Berkeley '24 graduate with a **B.A. in Data Science and Cognitive Science** and a **minor in Computer Science**. Currently, I'm working at AT&T as a Data Science Engineer apart of the Technology Development Program.
 
 ### 📊 About Me
 Welcome to my GitHub page - aka. my learning corner where I document my projects and journey in tech! I have a special interest in **data and product development**, but I’m always excited to explore and learn new skills. My ultimate goal is to leverage technology to create a meaningful impact on those around me.
 
 ### 🌱 Current Focus
-I'm currently building more with **Tableau**! I love how it combines technical skills, storytelling, and creativity - allowing me to dive deeper into data visualization and analysis. You can find my current progress [here](https://public.tableau.com/app/profile/karen.ting/vizzes).
+I'm currently building with **Power BI and Snowflake** through work! I love how it combines technical skills, storytelling, and creativity - allowing me to dive deeper into data visualization and analysis. 
 
 ### 📫 Stay in Touch
 - **LinkedIn**: Connect with me [here](https://www.linkedin.com/in/karenting/) to discuss ideas, opportunities, or collaborations.
 - **Email**: Feel free to message me directly at [kting24@berkeley.edu](mailto:kting24@berkeley.edu).
 - **Website**: Check out my most recent projects and experiences [here](https://kting24.github.io/).
 
-📌 **Note:** I’m always open to learning opportunities in data analysis, product development, and operations (i.e. non-profit initiatives or consulting projects).
+📌 **Note:** I’m always open to learning opportunities in data, product development, and operations (i.e. non-profit initiatives or consulting projects).
 
 Thank you for visiting!
